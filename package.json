@@ -1,0 +1,11 @@
+{
+  "name": "drift-circuit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "A one-thumb top-down racer: hold to drift, charge boost, and beat rivals across a generated championship.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
